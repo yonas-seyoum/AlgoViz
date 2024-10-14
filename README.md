@@ -1,1 +1,3 @@
 # AlgoViz
+
+Algorithm Visualizer
