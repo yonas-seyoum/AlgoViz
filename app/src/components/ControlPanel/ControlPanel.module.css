@@ -1,0 +1,19 @@
+.controlHolder {
+  display: flex;
+  justify-content: flex-end;
+  width: 45%;
+  align-items: center;
+  height: 100%;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid rgb(101, 43, 21);
+  border-radius: 0.5em;
+  padding: 0.4em;
+  margin-left: 1em;
+  width: 3.5rem;
+  cursor: pointer;
+}
