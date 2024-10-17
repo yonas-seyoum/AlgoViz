@@ -1,0 +1,35 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 7.5%;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 70%;
+}
+
+.menuItems {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2ch;
+}
+
+.menuTitle {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 0 5%;
+}
