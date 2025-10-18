@@ -1,0 +1,5 @@
+[
+  { "id": "a1", "jobId": "j1", "seekerId": "u1", "status": "Applied" },
+  { "id": "a2", "jobId": "j2", "seekerId": "u1", "status": "ShortListed" },
+  { "id": "a3", "jobId": "j3", "seekerId": "u1", "status": "Accepted" }
+]

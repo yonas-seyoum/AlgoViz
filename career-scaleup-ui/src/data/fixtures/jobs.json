@@ -1,0 +1,38 @@
+[
+  {
+    "id": "j1",
+    "title": "Senior Frontend Engineer",
+    "company": "Acme Corp",
+    "location": "Remote",
+    "type": "Full-time",
+    "salaryMin": 140000,
+    "salaryMax": 180000,
+    "description": "We are seeking a Senior Frontend Engineer to build elegant, accessible web experiences.",
+    "responsibilities": ["Build UI components", "Collaborate with designers", "Improve performance"],
+    "requirements": ["React", "TypeScript", "Accessibility"]
+  },
+  {
+    "id": "j2",
+    "title": "Data Analyst",
+    "company": "Finlytics",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "salaryMin": 90000,
+    "salaryMax": 120000,
+    "description": "Analyze datasets and build dashboards to guide business decisions.",
+    "responsibilities": ["Create dashboards", "Clean data", "Stakeholder collaboration"],
+    "requirements": ["SQL", "Python", "Recharts"]
+  },
+  {
+    "id": "j3",
+    "title": "Product Designer",
+    "company": "Designable",
+    "location": "San Francisco, CA",
+    "type": "Contract",
+    "salaryMin": 60000,
+    "salaryMax": 100000,
+    "description": "Craft intuitive user experiences and iterate with research.",
+    "responsibilities": ["Design flows", "Prototype", "User research"],
+    "requirements": ["Figma", "UX Research", "Accessibility"]
+  }
+]

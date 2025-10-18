@@ -1,0 +1,26 @@
+[
+  {
+    "id": "u1",
+    "firstName": "Alex",
+    "lastName": "Johnson",
+    "email": "alex@example.com",
+    "role": "seeker",
+    "skills": ["React", "TypeScript", "Next.js", "Tailwind"]
+  },
+  {
+    "id": "u2",
+    "firstName": "Taylor",
+    "lastName": "Lee",
+    "email": "taylor@acme.io",
+    "role": "recruiter",
+    "skills": ["Talent Sourcing", "Interviewing", "ATS"]
+  },
+  {
+    "id": "u3",
+    "firstName": "Morgan",
+    "lastName": "Patel",
+    "email": "morgan@careerscaleup.com",
+    "role": "admin",
+    "skills": ["Analytics", "Security", "Governance"]
+  }
+]
